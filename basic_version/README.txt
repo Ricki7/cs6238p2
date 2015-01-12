@@ -1,0 +1,1 @@
+This is a version of the secure application with all security functionality removed. It is used for timing purposes only.
